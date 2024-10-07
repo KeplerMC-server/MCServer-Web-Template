@@ -202,7 +202,7 @@ body {
     background: rgba(0, 0, 0, .5) url('https://www.mccormick.northwestern.edu/images/news/2023/07/what-does-a-twinkling-star-sound-like-take-a-listen-header.jpg');
     background-blend-mode: darken;
     background-repeat: no-repeat;
-    background-position: 50% 50%;
+    background-position: 100% 100%;
 }
 
 .main1_logo_a {
